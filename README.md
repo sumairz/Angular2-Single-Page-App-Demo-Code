@@ -10,8 +10,9 @@ Demo Angular2 with typescript single page application architecture
   <li>5- 404 page setup</li>
 <ul>
 
-<p>I have designed the settings so that all the .js and .js.map files will be in a sepaarate folder name "dist"</p>
+<hr>
 
-<p>All the html templates are in folder "templates" here I am using html but we can use any template system like smarty or twig</p>
+<p>I have designed the settings so that all the .js and .js.map files will be in a sepaarate folder name "dist".
+All the html templates are in folder "templates" here I am using html but we can use any template system like smarty or twig</p>
 
 
